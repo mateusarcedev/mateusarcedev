@@ -8,7 +8,7 @@ Sobre mim:
 * 💡 Tento ajudar as pessoas que estão começando na programação
 
 <div align="center">
-  <a href="https://github.com/mateusarce">
+  <a href="https://github.com/mateusarcedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusarce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusarce&layout=compact&langs_count=7&theme=dracula"/>
 </div>
