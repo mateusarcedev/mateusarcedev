@@ -1,12 +1,5 @@
-# Olá! 👨‍💻
-Meu nome é Mateus Arce, sou de Manaus, estudo engenharia da computação, tenho uma grande paixão por desenvolvimento web.
-Gosto muito de resolver problemas e aprender coisas novas. 
+# Olá!
 ##
-Sobre mim:
-* Atualmente estou aprendendo JavaScript, Linguagem C e HTML/CSS
-* ✊🏽 Tento colaborar em projetos de impacto social
-* 💡 Tento ajudar as pessoas que estão começando na programação
-
 <div align="center">
   <a href="https://github.com/mateusarcedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusarcedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
