@@ -1,4 +1,4 @@
-# Olá! Eu sou o Mateus Arce
+# Olá!
 
 <div align="center">
 <img src="capa.gif"/>
