@@ -1,4 +1,3 @@
-# 💫 About Me:
 E aí, pessoal! 👋 Este é o meu GitHub, onde compartilho meus projetos e códigos com vocês. <br>Meu nome é Mateus, e sou um desenvolvedor que adora explorar novas tecnologias e soluções criativas para problemas complexos. 💻🔍<br><br> Aqui você encontrará projetos de diferentes áreas.<br><br>Estou sempre procurando aprender mais e crescer como desenvolvedor, <br>então fique à vontade para dar feedbacks e contribuir para meus projetos. <br>Vamos construir juntos algo incrível! 🚀
 
 
