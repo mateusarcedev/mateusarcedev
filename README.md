@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Computer Engineer
 <p align="left">
-I am a full stack developer passionate about technology and innovation, with solid experience in frontend and backend web development. My expertise includes React, Vue.js, Angular, Node.js, NestJS, Prisma, Laravel, and Python. I am also currently studying Go to broaden my skills. I have proficiency in creating REST APIs, developing intuitive interfaces, and maintaining legacy systems using modern technologies such as Docker and GIT. Committed to continuous professional growth, I am always seeking new challenges that enhance my skills and contribute to impactful technological solutions.
+Full stack software developer with solid experience in technologies such as React.js, Next.js, NestJS, and React Native. I am passionate about building efficient and scalable solutions, with expertise in API development, microservices, and system integration. Currently, I am expanding my knowledge in Docker, Kubernetes, and CI/CD best practices, while deepening my understanding of large-scale system architecture. With a degree in Computer Engineering and practical experience in both corporate and academic environments, I am constantly seeking challenges that allow me to grow as a professional and contribute to technological innovation.
 
 I am open to new opportunities and collaborations. Let's talk!
 </p>
