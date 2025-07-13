@@ -1,39 +1,40 @@
-<h2 align="left">About</h2>
+## About Me
 
-### Full Stack Developer | Computer Engineer
-<p align="left">
-Full stack software developer with solid experience in technologies such as React.js, Next.js, NestJS, and React Native. I am passionate about building efficient and scalable solutions, with expertise in API development, microservices, and system integration. Currently, I am expanding my knowledge in Docker, Kubernetes, and CI/CD best practices, while deepening my understanding of large-scale system architecture. With a degree in Computer Engineering and practical experience in both corporate and academic environments, I am constantly seeking challenges that allow me to grow as a professional and contribute to technological innovation.
+I'm a Full Stack Developer and Computer Engineer focused on building robust, scalable, and high-performance solutions. I work mainly with React.js, Next.js, NestJS, and React Native, building APIs, modern UIs, and microservices.
 
-I am open to new opportunities and collaborations. Let's talk!
-</p>
+Currently expanding my knowledge in Docker, Kubernetes, and CI/CD practices, with a strong interest in system architecture and product scalability.
 
-###
+I'm always open to opportunities and collaborations.
 
-<h2 align="left">Techs</h2>
-  Javascript
-| Typescript
-| ReactJs
-| Vuejs
-| Nextjs
-| Nestjs
-| Docker
-| PostgreSQL
-| MySQL
-<div align="left">
-  
-</div>
+---
 
-###
+## Tech Stack
 
-<h2 align="left">Social</h2>
+- JavaScript / TypeScript  
+- React.js / Next.js / Vue.js  
+- NestJS / Node.js  
+- React Native  
+- Docker  
+- PostgreSQL / MySQL
 
-###
+---
 
-<div align="left">
-  
-- email: arcemateuss@gmail.com
-  
-- linkedin: https://www.linkedin.com/in/mateus-arce/
-</div>
+## Featured Project
 
-###
+- [tools4.tech](https://github.com/mateusarcedev/tools4.tech)  
+  Curated list of tools and platforms for developers. Organized by categories to help streamline your dev workflow and discover new resources.
+
+---
+
+## Contact
+
+- Email: [arcemateuss@gmail.com](mailto:arcemateuss@gmail.com)  
+- GitHub: [github.com/mateusarcedev](https://github.com/mateusarcedev)  
+- Website: [mateusarce.dev](https://mateusarce.dev)  
+- LinkedIn: [linkedin.com/in/mateus-arce](https://www.linkedin.com/in/mateus-arce)
+
+---
+
+## GitHub Stats
+
+![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusarcedev&show_icons=true&theme=default)
