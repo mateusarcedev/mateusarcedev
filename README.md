@@ -2,7 +2,7 @@
 
 **Full Stack Developer** · Manaus, Brazil
 
-Building corporate internal systems end-to-end — REST APIs, data modeling, CI/CD pipelines, and production UIs. 3+ years with NestJS, PostgreSQL, and React in production. Expanding into Java/Spring Boot, Angular, and Go targeting fintech and large-scale systems.
+Building corporate internal systems end-to-end — REST APIs, data modeling, CI/CD pipelines, and production UIs. 3+ years with NestJS, PostgreSQL, and React in production. Expanding into Java/Spring Boot, Angular, and Go targeting large-scale systems.
 
 ---
 
