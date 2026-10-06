@@ -19,9 +19,9 @@
 Building backend systems, automation and internal platforms at **Supertrans**.
 Previously worked on internal systems and R&D at **Sidia Instituto de Tecnologia**.
 
-3+ years shipping production software end-to-end — APIs, data modeling, integrations, CI/CD and web interfaces.
+4+ years building production software end-to-end — APIs, data modeling, integrations, CI/CD and web interfaces.
 Public projects focus on developer tooling, self-hosted products and hardware/software integration.
-Currently deepening **Go**, **LangGraph** and event-driven architectures.
+Currently deepening event-driven architectures, observability and AI-agent orchestration.
 
 ---
 
@@ -37,10 +37,10 @@ Currently deepening **Go**, **LangGraph** and event-driven architectures.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Also working with**  
-`Python` · `Java` · `Angular` · `Tailwind CSS` · `Prisma` · `Redis` · `RabbitMQ` · `n8n` · `Nginx` · `Traefik` · `Keycloak` · `Linux`
+`Go` · `Python` · `Java` · `Angular` · `Tailwind CSS` · `Prisma` · `Redis` · `RabbitMQ` · `LangGraph` · `n8n` · `Kubernetes` · `Nginx` · `Traefik` · `Keycloak` · `Linux`
 
 **Currently exploring**  
-`Go` · `LangGraph` · `LangChain` · `Kubernetes`
+`LangChain` · event-driven architectures · observability
 
 ---
 
@@ -49,7 +49,7 @@ Currently deepening **Go**, **LangGraph** and event-driven architectures.
 ```
 building     →  backend systems and automation at Supertrans
 shipping     →  developer tools and open-source side projects
-learning     →  Go, LangGraph and event-driven architectures
+learning     →  event-driven architectures, observability and distributed systems
 drinking     →  black coffee, always
 ```
 
