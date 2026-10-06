@@ -74,13 +74,21 @@ drinking     →  black coffee, always
 
 ### `04` — featured
 
+> **[sql-vault](https://github.com/mateusarcedev/sql-vault)** &nbsp;·&nbsp; `Next.js 16` `PostgreSQL 17` `Monaco` `VS Code`
+> Self-hosted SQL knowledge manager with versioning, tags, side-by-side diffs and a published VS Code extension.
+> Encrypted AI provider credentials, personal API keys, CI/E2E and support for OpenAI, Anthropic, Gemini and Ollama.
+
 > **[devlist](https://github.com/mateusarcedev/devlist)** &nbsp;·&nbsp; `Next.js 16` `NestJS 12` `PostgreSQL` `Docker`
 > Open-source platform to discover, favorite and suggest developer tools, organized by category.
 > GitHub OAuth, protected admin flows, CI quality gates and deployment-ready self-hosted infrastructure.
 
-> **[sql-vault](https://github.com/mateusarcedev/sql-vault)** &nbsp;·&nbsp; `Next.js 16` `PostgreSQL 17` `Monaco` `VS Code`
-> Self-hosted SQL knowledge manager with versioning, tags, side-by-side diffs and a published VS Code extension.
-> Encrypted AI provider credentials, personal API keys, CI/E2E and support for OpenAI, Anthropic, Gemini and Ollama.
+> **[tcc](https://github.com/mateusarcedev/tcc)** &nbsp;·&nbsp; `FastAPI` `OpenCV` `Arduino` `Next.js`
+> Computer Engineering final project integrating computer vision, backend orchestration and embedded systems.
+> QR processing, SQLite persistence, USB serial commands, Arduino conveyor control and a live monitoring dashboard.
+
+> **[prompt-manager](https://github.com/mateusarcedev/prompt-manager)** &nbsp;·&nbsp; `Vue 3` `Pinia` `Express` `SQLite`
+> Lightweight prompt library for creating, editing, searching and organizing reusable prompts by tag.
+> Vue frontend with Pinia state management, Express API, local SQLite persistence and automated API tests.
 
 ---
 
