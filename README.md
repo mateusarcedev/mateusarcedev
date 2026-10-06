@@ -36,25 +36,11 @@ Currently deepening **Go**, **LangGraph** and event-driven architectures.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Also working with** <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Also working with**  
+`Python` · `Java` · `Angular` · `Tailwind CSS` · `Prisma` · `Redis` · `RabbitMQ` · `n8n` · `Nginx` · `Traefik` · `Keycloak` · `Linux`
 
-**Currently exploring** <br/>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+**Currently exploring**  
+`Go` · `LangGraph` · `LangChain` · `Kubernetes`
 
 ---
 
@@ -86,19 +72,6 @@ drinking     →  black coffee, always
 > **[prompt-manager](https://github.com/mateusarcedev/prompt-manager)** &nbsp;·&nbsp; `Vue 3` `Pinia` `Express` `SQLite`
 > Lightweight prompt library for creating, editing, searching and organizing reusable prompts by tag.
 > Vue frontend with Pinia state management, Express API, local SQLite persistence and automated API tests.
-
----
-
-### `05` — stats
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mateusarcedev&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true&custom_title=)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusarcedev&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=mateusarcedev&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E)
-
-</div>
 
 ---
 
