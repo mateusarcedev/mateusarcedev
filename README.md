@@ -74,13 +74,13 @@ drinking     →  black coffee, always
 
 ### `04` — featured
 
-> **[devlist](https://github.com/mateusarcedev/devlist)** &nbsp;·&nbsp; `Next.js 15` `NestJS` `Prisma` `PostgreSQL`
-> Community-curated platform to discover and favorite developer tools, organized by category.
-> GitHub OAuth, favorites and open contribution flow.
+> **[devlist](https://github.com/mateusarcedev/devlist)** &nbsp;·&nbsp; `Next.js 16` `NestJS 12` `PostgreSQL` `Docker`
+> Open-source platform to discover, favorite and suggest developer tools, organized by category.
+> GitHub OAuth, protected admin flows, CI quality gates and deployment-ready self-hosted infrastructure.
 
-> **[sql-vault](https://github.com/mateusarcedev/sql-vault)** &nbsp;·&nbsp; `Next.js` `Prisma` `SQLite` `Monaco` `VS Code`
-> Local-first SQL query manager with versioning, tags, side-by-side diffs and a VS Code extension.
-> Supports multiple AI providers (OpenAI, Anthropic, Gemini, Ollama).
+> **[sql-vault](https://github.com/mateusarcedev/sql-vault)** &nbsp;·&nbsp; `Next.js 16` `PostgreSQL 17` `Monaco` `VS Code`
+> Self-hosted SQL knowledge manager with versioning, tags, side-by-side diffs and a published VS Code extension.
+> Encrypted AI provider credentials, personal API keys, CI/E2E and support for OpenAI, Anthropic, Gemini and Ollama.
 
 ---
 
