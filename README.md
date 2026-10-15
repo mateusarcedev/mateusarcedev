@@ -37,7 +37,7 @@ Currently deepening event-driven architectures, observability and AI-agent orche
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Also working with**  
-`Go` · `Python` · `Java` · `Angular` · `Tailwind CSS` · `Prisma` · `Redis` · `RabbitMQ` · `LangGraph` · `n8n` · `Kubernetes` · `Nginx` · `Traefik` · `Keycloak` · `Linux`
+`Go` · `Python` · `Tailwind CSS` · `Prisma` · `Redis` · `RabbitMQ` · `LangGraph` · `n8n` · `Kubernetes` · `Nginx` · `Traefik` · `Keycloak` · `Linux`
 
 ---
 
