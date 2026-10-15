@@ -2,9 +2,9 @@
 
 # Mateus Arce
 
-**Software Engineer · Full Stack** · backend systems, developer tools and automation
+**Senior Full Stack Developer at Supertrans** · backend systems, web products and automation
 
-`Manaus, BR` · `UTC−4` · building at **Supertrans**
+`Manaus, BR` · `UTC−4` · `4+ years in software development (including internships)`
 
 [![Website](https://img.shields.io/badge/mateusarce.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mateusarce.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-arce)
@@ -16,18 +16,20 @@
 
 ### `01` — about
 
-Building backend systems, automation and internal platforms at **Supertrans**.
-Previously worked on internal systems and R&D at **Sidia Instituto de Tecnologia** and on legacy and internal systems at **Visteon Amazonas**.
+I build APIs, integrations, internal platforms and web interfaces, with a focus on maintainable backend systems and automation.
 
-4+ years building production software (including internships) — APIs, data modeling, integrations, CI/CD and web interfaces.
-Public projects focus on developer tooling, self-hosted products and hardware/software integration.
-Currently deepening event-driven architectures, observability and AI-agent orchestration.
+- **Now:** Senior Full Stack Developer at **Supertrans** (since May 2026).
+- **Previously:** Software development and R&D at **Sidia Instituto de Tecnologia**; internal and legacy systems at **Visteon Amazonas**.
+- **Experience:** 4+ years in software development, including internships, across backend, frontend, data and delivery.
+
+Outside work, I build open-source developer tools and explore event-driven systems, observability and AI-agent orchestration.
 
 ---
 
 ### `02` — stack
 
-**Core** <br/>
+**Core**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -36,25 +38,22 @@ Currently deepening event-driven architectures, observability and AI-agent orche
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Also working with**  
-`Go` · `Python` · `Tailwind CSS` · `Prisma` · `Redis` · `RabbitMQ` · `LangGraph` · `n8n` · `Kubernetes` · `Nginx` · `Traefik` · `Keycloak` · `Linux`
+**Backend & data:** `Go` · `Python` · `Prisma` · `Redis` · `RabbitMQ`
+
+**Infrastructure & automation:** `Linux` · `Kubernetes` · `Nginx` · `Traefik` · `Keycloak` · `LangGraph`
 
 ---
 
-### `03` — featured
+### `03` — featured projects
 
-> **[sql-vault](https://github.com/mateusarcedev/sql-vault)** &nbsp;·&nbsp; `Next.js 16` `PostgreSQL 17` `Monaco` `VS Code`
-> Self-hosted SQL knowledge manager with versioning, tags, side-by-side diffs and a published VS Code extension.
-> Encrypted AI provider credentials, personal API keys, CI/E2E and support for OpenAI, Anthropic, Gemini and Ollama.
-> Extension: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mateusarcedev.sqlvault) · [source](https://github.com/mateusarcedev/sql-vault-extension)
+**[SQL Vault](https://github.com/mateusarcedev/sql-vault)** — A self-hosted SQL workspace with query versioning, side-by-side diffs and encrypted AI-provider credentials. Includes Docker setup, CI/E2E tests and a published [VS Code extension](https://marketplace.visualstudio.com/items?itemName=mateusarcedev.sqlvault) ([source](https://github.com/mateusarcedev/sql-vault-extension)).  
+`Next.js 16` · `PostgreSQL 17` · `Monaco Editor`
 
-> **[devlist](https://github.com/mateusarcedev/devlist)** &nbsp;·&nbsp; `Next.js 16` `NestJS 12` `PostgreSQL` `Docker`
-> Open-source platform to discover, favorite and suggest developer tools, organized by category.
-> GitHub OAuth, protected admin flows, CI quality gates and deployment-ready self-hosted infrastructure.
+**[Devlist](https://github.com/mateusarcedev/devlist)** — An open-source directory to discover, save and suggest developer tools. Uses GitHub OAuth, API-enforced admin access and CI; self-hosted deployment is prepared, **not yet live**.  
+`Next.js 16` · `NestJS 12` · `PostgreSQL` · `Docker`
 
-> **[tcc](https://github.com/mateusarcedev/tcc)** &nbsp;·&nbsp; `FastAPI` `OpenCV` `Arduino` `Next.js`
-> Computer Engineering final project integrating computer vision, backend orchestration and embedded systems.
-> QR processing, SQLite persistence, USB serial commands, Arduino conveyor control and a live monitoring dashboard.
+**[TCC — Conveyor QR Automation](https://github.com/mateusarcedev/tcc)** — A co-authored Computer Engineering capstone combining QR recognition, FastAPI orchestration, SQLite and Arduino conveyor control. Provides a [Docker software demo](https://github.com/mateusarcedev/tcc/blob/main/docs/docker-demo.md) without physical hardware.  
+`FastAPI` · `OpenCV` · `Arduino` · `Next.js`
 
 ---
 
