@@ -17,9 +17,9 @@
 ### `01` — about
 
 Building backend systems, automation and internal platforms at **Supertrans**.
-Previously worked on internal systems and R&D at **Sidia Instituto de Tecnologia**.
+Previously worked on internal systems and R&D at **Sidia Instituto de Tecnologia** and on legacy and internal systems at **Visteon Amazonas**.
 
-4+ years building production software end-to-end — APIs, data modeling, integrations, CI/CD and web interfaces.
+4+ years building production software (including internships) — APIs, data modeling, integrations, CI/CD and web interfaces.
 Public projects focus on developer tooling, self-hosted products and hardware/software integration.
 Currently deepening event-driven architectures, observability and AI-agent orchestration.
 
@@ -37,29 +37,16 @@ Currently deepening event-driven architectures, observability and AI-agent orche
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Also working with**  
-`Go` · `Python` · `Java` · `Angular` · `Tailwind CSS` · `Prisma` · `Redis` · `RabbitMQ` · `LangGraph` · `n8n` · `Kubernetes` · `Nginx` · `Traefik` · `Keycloak` · `Linux`
-
-**Currently exploring**  
-`LangChain` · event-driven architectures · observability
+`Go` · `Python` · `Tailwind CSS` · `Prisma` · `Redis` · `RabbitMQ` · `LangGraph` · `n8n` · `Kubernetes` · `Nginx` · `Traefik` · `Keycloak` · `Linux`
 
 ---
 
-### `03` — now
-
-```
-building     →  backend systems and automation at Supertrans
-shipping     →  developer tools and open-source side projects
-learning     →  event-driven architectures, observability and distributed systems
-drinking     →  black coffee, always
-```
-
----
-
-### `04` — featured
+### `03` — featured
 
 > **[sql-vault](https://github.com/mateusarcedev/sql-vault)** &nbsp;·&nbsp; `Next.js 16` `PostgreSQL 17` `Monaco` `VS Code`
 > Self-hosted SQL knowledge manager with versioning, tags, side-by-side diffs and a published VS Code extension.
 > Encrypted AI provider credentials, personal API keys, CI/E2E and support for OpenAI, Anthropic, Gemini and Ollama.
+> Extension: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mateusarcedev.sqlvault) · [source](https://github.com/mateusarcedev/sql-vault-extension)
 
 > **[devlist](https://github.com/mateusarcedev/devlist)** &nbsp;·&nbsp; `Next.js 16` `NestJS 12` `PostgreSQL` `Docker`
 > Open-source platform to discover, favorite and suggest developer tools, organized by category.
@@ -68,10 +55,6 @@ drinking     →  black coffee, always
 > **[tcc](https://github.com/mateusarcedev/tcc)** &nbsp;·&nbsp; `FastAPI` `OpenCV` `Arduino` `Next.js`
 > Computer Engineering final project integrating computer vision, backend orchestration and embedded systems.
 > QR processing, SQLite persistence, USB serial commands, Arduino conveyor control and a live monitoring dashboard.
-
-> **[prompt-manager](https://github.com/mateusarcedev/prompt-manager)** &nbsp;·&nbsp; `Vue 3` `Pinia` `Express` `SQLite`
-> Lightweight prompt library for creating, editing, searching and organizing reusable prompts by tag.
-> Vue frontend with Pinia state management, Express API, local SQLite persistence and automated API tests.
 
 ---
 
